@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seminar Pola Pertolongan Allah - Madiun</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 font-sans leading-relaxed tracking-wide flex flex-col">
+
+  <!-- Hero Section -->
+  <section class="bg-gradient-to-r from-blue-900 to-indigo-700 text-white py-16 px-6 text-center">
+    <h1 class="text-4xl md:text-5xl font-bold mb-4">Private Class: Pola Pertolongan Allah</h1>
+    <p class="text-xl mb-6">Temukan 5 Prinsip Keberuntungan & Keajaiban Hidup Bersama <span class="font-semibold">Muhtar Fathony</span></p>
+    <p class="text-lg">Ahad, 5 Oktober 2025 | Hotel Aston Madiun</p>
+    <a href="#daftar" class="mt-6 inline-block bg-yellow-400 hover:bg-yellow-500 text-black font-bold py-3 px-8 rounded-lg shadow-lg transition">Daftar Sekarang</a>
+  </section>
+
+  <!-- Masalah Audience -->
+  <section class="py-16 px-6 max-w-5xl mx-auto text-center">
+    <h2 class="text-3xl font-bold text-gray-800 mb-6">Apakah Anda Sedang Mengalami Ini?</h2>
+    <div class="grid md:grid-cols-3 gap-8 text-gray-700">
+      <div class="p-6 bg-white shadow-lg rounded-xl">
+        <h3 class="font-semibold text-xl mb-2">Banyak Masalah Hidup</h3>
+        <p>Merasa terhimpit dengan berbagai ujian, masalah finansial, keluarga, maupun pekerjaan?</p>
+      </div>
+      <div class="p-6 bg-white shadow-lg rounded-xl">
+        <h3 class="font-semibold text-xl mb-2">Hilang Semangat</h3>
+        <p>Ingin bangkit, tapi sering merasa lelah, bingung arah hidup, dan kehilangan motivasi?</p>
+      </div>
+      <div class="p-6 bg-white shadow-lg rounded-xl">
+        <h3 class="font-semibold text-xl mb-2">Rindu Pertolongan Allah</h3>
+        <p>Mengharap solusi ilahi agar hidup lebih lapang, bahagia, dan penuh keberkahan?</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Apa yang Dipelajari -->
+  <section class="bg-gray-100 py-16 px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-3xl font-bold text-gray-800 mb-8">Apa yang Akan Anda Pelajari?</h2>
+      <ul class="text-lg text-gray-700 space-y-4 text-left max-w-xl mx-auto">
+        <li>✅ 5 Prinsip <span class="font-semibold">Keberuntungan & Keajaiban Hidup</span></li>
+        <li>✅ Memahami hakikat masalah & impian</li>
+        <li>✅ <span class="font-semibold">Mindset & Heartset</span> agar berlapang dada</li>
+        <li>✅ Memahami <span class="font-semibold">Konsep niat & ikhtiar</span></li>
+        <li>✅ Menemukan <span class="font-semibold">Positive Feeling</span></li>
+        <li>✅ Amalan untuk mengundang <span class="font-semibold">Rezeki Tak Terduga</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Benefit Section -->
+  <section class="py-16 px-6 text-center">
+    <h2 class="text-3xl font-bold text-gray-800 mb-6">Mengapa Harus Ikut Seminar Ini?</h2>
+    <p class="max-w-3xl mx-auto text-gray-700 mb-8">Karena setiap masalah bukan hanya butuh solusi logika, tetapi juga sentuhan spiritual. Seminar ini membantu Anda menemukan kekuatan batin, optimisme, dan jalan keluar dengan izin Allah.</p>
+    <div class="grid md:grid-cols-3 gap-8">
+      <div class="p-6 bg-white rounded-xl shadow-lg">
+        <h3 class="text-xl font-semibold mb-2">Upgrade Diri</h3>
+        <p>Belajar cara berpikir positif dan memperbaiki hati agar lebih lapang.</p>
+      </div>
+      <div class="p-6 bg-white rounded-xl shadow-lg">
+        <h3 class="text-xl font-semibold mb-2">Bersama Trainer Berpengalaman</h3>
+        <p>Dipandu langsung oleh <strong>Muhtar Fathony</strong> dari PPA Institute.</p>
+      </div>
+      <div class="p-6 bg-white rounded-xl shadow-lg">
+        <h3 class="text-xl font-semibold mb-2">Komunitas Positif</h3>
+        <p>Bergabung dengan ratusan peserta lain yang juga ingin berubah lebih baik.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimoni Section -->
+  <section class="bg-gray-100 py-16 px-6">
+    <div class="max-w-5xl mx-auto text-center">
+      <h2 class="text-3xl font-bold text-gray-800 mb-8">Apa Kata Peserta Sebelumnya?</h2>
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="bg-white p-6 rounded-xl shadow-lg">
+          <p class="italic mb-4">“Setelah ikut seminar ini, hati saya lebih tenang dan masalah terasa ringan. Saya jadi lebih yakin Allah selalu menolong.”</p>
+          <h3 class="font-semibold text-lg">Ibu Siti, Madiun</h3>
+        </div>
+        <div class="bg-white p-6 rounded-xl shadow-lg">
+          <p class="italic mb-4">“Ilmu yang saya dapat sangat membekas, terutama tentang ikhtiar dan niat. Rezeki pun mulai lancar tak terduga.”</p>
+          <h3 class="font-semibold text-lg">Bapak Agus, Ponorogo</h3>
+        </div>
+        <div class="bg-white p-6 rounded-xl shadow-lg">
+          <p class="italic mb-4">“Seminar ini bukan hanya teori, tapi langsung menyentuh hati. Hidup saya jadi lebih semangat dan optimis.”</p>
+          <h3 class="font-semibold text-lg">Ibu Rina, Magetan</h3>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Call to Action -->
+  <section id="daftar" class="bg-indigo-700 text-white py-16 px-6 text-center">
+    <h2 class="text-3xl font-bold mb-6">Segera Amankan Kursi Anda!</h2>
+    <p class="text-lg mb-6">Ahad, 5 Oktober 2025 | Pukul 08.00 s.d Selesai | Hotel Aston Madiun</p>
+    <p class="text-lg mb-6">Kuota terbatas! Jangan lewatkan kesempatan langka ini.</p>
+    <a href="https://wa.me/6285603743674" target="_blank" class="bg-yellow-400 hover:bg-yellow-500 text-black font-bold py-4 px-10 rounded-lg shadow-lg transition">Daftar via WhatsApp</a>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-gray-300 py-8 text-center">
+    <p>Diselenggarakan oleh <span class="font-semibold">Komunitas PPA Madiun</span></p>
+    <p>Informasi: 0856-0374-3674</p>
+  </footer>
+
+</body>
+</html>
